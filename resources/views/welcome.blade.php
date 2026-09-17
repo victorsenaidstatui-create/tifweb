@@ -18,7 +18,7 @@
 <body>
     <main class="inicio">
         <img src="{{ asset('images/sesi-logo.png') }}" alt="Logo SESI" class="logo">
-        <div class="titulo">Sistema de controle escolar</div>
+        <div class="titulo">Sistema de controle da cozinha</div>
         <nav class="menu" aria-label="Menu principal">
             <a href="/cadastro_aluno">📝 Começar cadastro</a>
             <a href="/registrar_entrada">📋 Registrar entrada</a>
